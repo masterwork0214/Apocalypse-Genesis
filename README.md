@@ -2,6 +2,8 @@
 
 HSQSL private server emulator — a reverse-engineered mock backend for offline/local play.
 
+> **Note:** Not playable. Only a minimal portion of content is viewable.
+
 ## Components
 
 | Module | Description |
