@@ -1,1 +1,2 @@
-neteasehsqsl
+mock_server/*.log
+.claude/
